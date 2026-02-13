@@ -33,3 +33,17 @@ build/
 .vscode/
 
 .DS_Store
+
+
+### Environment & Secrets ###
+.env
+.env.local
+application-prod.properties
+application-local.properties
+
+### Docker ###
+docker-compose.override.yml
+
+### Logs ###
+*.log
+logs/
