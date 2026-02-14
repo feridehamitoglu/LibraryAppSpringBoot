@@ -1,5 +1,32 @@
 # Kütüphane Yönetim Sistemi
 
+# 📚 Library Management App - Backend
+
+Spring Boot ile geliştirilmiş kütüphane yönetim sistemi REST API'si.
+
+## 🌐 Canlı Link
+
+🔗 [API](https://libraryappspringboot-z28w.onrender.com)
+
+📄 [Swagger UI](https://libraryappspringboot-z28w.onrender.com/swagger-ui/index.html)
+
+## 🛠️ Teknolojiler
+
+- Java 17
+- Spring Boot 3.2.1
+- PostgreSQL
+- Docker
+- Swagger / OpenAPI
+
+## 🚀 Kurulum
+
+1. Repoyu klonla
+2. Veritabanı bilgilerini environment variable olarak gir
+3. Docker ile çalıştır:
+```bash
+docker-compose up
+```
+
 Kütüphaneler tarafından kullanılabilecek kayıt yönetimlerini, kitap ödünç verme ve alma işlemlerini yapabilecekleri Rest API projesidir.
 ## Kullanılan Teknolojiler
 
